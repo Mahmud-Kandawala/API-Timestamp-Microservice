@@ -1,1 +1,3 @@
-# API Timestamp Mircroservice
+# API Timestamp Microservice
+
+<img src = "images/time.png"> 
