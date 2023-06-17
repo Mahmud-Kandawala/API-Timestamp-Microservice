@@ -14,13 +14,12 @@ If you use Replit, follow these steps to set up the project:
 Start by importing the project on Replit.
 Next, you will see a .replit window.
 Select Use run command and click the Done button.
-When you are done, make sure a working demo of your project is hosted somewhere public. Then submit the URL to it in the Solution Link field. Optionally, also submit a link to your project's source code in the GitHub Link field.
-
-Note: Time zones conversion is not a purpose of this project, so assume all sent valid dates will be parsed with new Date() as GMT dates.
 
 ## Submitting
 
-Once you're done, submit the URL to your working project with all its tests passing.
+When you are done, make sure a working demo of your project is hosted somewhere public. Then submit the URL to it in the Solution Link field. Optionally, also submit a link to your project's source code in the GitHub Link field.
+
+Note: Time zones conversion is not a purpose of this project, so assume all sent valid dates will be parsed with new Date() as GMT dates.
 
 ## Testing 
 https://replit.com/@Mahmud-Kandawal/boilerplate-project-timestamp?v=1   --- > (Go to the link and press "Run")
